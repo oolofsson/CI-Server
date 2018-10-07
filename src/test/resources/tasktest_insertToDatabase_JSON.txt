@@ -1,0 +1,196 @@
+{
+  "ref": "refs/heads/master",
+  "before": "4b9e0653cb47f93aa0b0d2cdd120c85506146686",
+  "after": "32e768e1f2d55ada2ad55514644d42f6a4898053",
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "base_ref": null,
+  "compare": "https://gits-15.sys.kth.se/dd2480-group-20/test/compare/4b9e0653cb47...32e768e1f2d5",
+  "commits": [
+    {
+      "id": "32e768e1f2d55ada2ad55514644d42f6a4898053",
+      "tree_id": "64d7cacb43e3155731e7b8a61eec0b0afac77146",
+      "distinct": true,
+      "message": "adding important file",
+      "timestamp": "2018-02-01T14:38:54+01:00",
+      "url": "https://gits-15.sys.kth.se/dd2480-group-20/test/commit/32e768e1f2d55ada2ad55514644d42f6a4898053",
+      "author": {
+        "name": "Martin Pola",
+        "email": "mpola@kth.se",
+        "username": "mpola"
+      },
+      "committer": {
+        "name": "Martin Pola",
+        "email": "mpola@kth.se",
+        "username": "mpola"
+      },
+      "added": [
+        "hej.txt"
+      ],
+      "removed": [
+
+      ],
+      "modified": [
+
+      ]
+    }
+  ],
+  "head_commit": {
+    "id": "32e768e1f2d55ada2ad55514644d42f6a4898053",
+    "tree_id": "64d7cacb43e3155731e7b8a61eec0b0afac77146",
+    "distinct": true,
+    "message": "adding important file",
+    "timestamp": "2018-02-01T14:38:54+01:00",
+    "url": "https://gits-15.sys.kth.se/dd2480-group-20/test/commit/32e768e1f2d55ada2ad55514644d42f6a4898053",
+    "author": {
+      "name": "Martin Pola",
+      "email": "mpola@kth.se",
+      "username": "mpola"
+    },
+    "committer": {
+      "name": "Martin Pola",
+      "email": "mpola@kth.se",
+      "username": "mpola"
+    },
+    "added": [
+      "hej.txt"
+    ],
+    "removed": [
+
+    ],
+    "modified": [
+
+    ]
+  },
+  "repository": {
+    "id": 43638,
+    "name": "test",
+    "full_name": "dd2480-group-20/test",
+    "owner": {
+      "name": "dd2480-group-20",
+      "email": "",
+      "login": "dd2480-group-20",
+      "id": 6466,
+      "avatar_url": "https://gits-15.sys.kth.se/avatars/u/6466?",
+      "gravatar_id": "",
+      "url": "https://gits-15.sys.kth.se/api/v3/users/dd2480-group-20",
+      "html_url": "https://gits-15.sys.kth.se/dd2480-group-20",
+      "followers_url": "https://gits-15.sys.kth.se/api/v3/users/dd2480-group-20/followers",
+      "following_url": "https://gits-15.sys.kth.se/api/v3/users/dd2480-group-20/following{/other_user}",
+      "gists_url": "https://gits-15.sys.kth.se/api/v3/users/dd2480-group-20/gists{/gist_id}",
+      "starred_url": "https://gits-15.sys.kth.se/api/v3/users/dd2480-group-20/starred{/owner}{/repo}",
+      "subscriptions_url": "https://gits-15.sys.kth.se/api/v3/users/dd2480-group-20/subscriptions",
+      "organizations_url": "https://gits-15.sys.kth.se/api/v3/users/dd2480-group-20/orgs",
+      "repos_url": "https://gits-15.sys.kth.se/api/v3/users/dd2480-group-20/repos",
+      "events_url": "https://gits-15.sys.kth.se/api/v3/users/dd2480-group-20/events{/privacy}",
+      "received_events_url": "https://gits-15.sys.kth.se/api/v3/users/dd2480-group-20/received_events",
+      "type": "Organization",
+      "site_admin": false
+    },
+    "private": true,
+    "html_url": "https://gits-15.sys.kth.se/dd2480-group-20/test",
+    "description": null,
+    "fork": false,
+    "url": "https://gits-15.sys.kth.se/dd2480-group-20/test",
+    "forks_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/forks",
+    "keys_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/keys{/key_id}",
+    "collaborators_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/collaborators{/collaborator}",
+    "teams_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/teams",
+    "hooks_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/hooks",
+    "issue_events_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/issues/events{/number}",
+    "events_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/events",
+    "assignees_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/assignees{/user}",
+    "branches_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/branches{/branch}",
+    "tags_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/tags",
+    "blobs_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/git/blobs{/sha}",
+    "git_tags_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/git/tags{/sha}",
+    "git_refs_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/git/refs{/sha}",
+    "trees_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/git/trees{/sha}",
+    "statuses_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/statuses/{sha}",
+    "languages_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/languages",
+    "stargazers_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/stargazers",
+    "contributors_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/contributors",
+    "subscribers_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/subscribers",
+    "subscription_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/subscription",
+    "commits_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/commits{/sha}",
+    "git_commits_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/git/commits{/sha}",
+    "comments_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/comments{/number}",
+    "issue_comment_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/issues/comments{/number}",
+    "contents_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/contents/{+path}",
+    "compare_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/compare/{base}...{head}",
+    "merges_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/merges",
+    "archive_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/{archive_format}{/ref}",
+    "downloads_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/downloads",
+    "issues_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/issues{/number}",
+    "pulls_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/pulls{/number}",
+    "milestones_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/milestones{/number}",
+    "notifications_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/notifications{?since,all,participating}",
+    "labels_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/labels{/name}",
+    "releases_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/releases{/id}",
+    "deployments_url": "https://gits-15.sys.kth.se/api/v3/repos/dd2480-group-20/test/deployments",
+    "created_at": 1516277245,
+    "updated_at": "2018-02-01T13:37:28Z",
+    "pushed_at": 1517492344,
+    "git_url": "git://gits-15.sys.kth.se/dd2480-group-20/test.git",
+    "ssh_url": "git@gits-15.sys.kth.se:dd2480-group-20/test.git",
+    "clone_url": "https://gits-15.sys.kth.se/dd2480-group-20/test.git",
+    "svn_url": "https://gits-15.sys.kth.se/dd2480-group-20/test",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "Shell",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "master",
+    "stargazers": 0,
+    "master_branch": "master",
+    "organization": "dd2480-group-20"
+  },
+  "pusher": {
+    "name": "mpola",
+    "email": "mpola@kth.se"
+  },
+  "organization": {
+    "login": "dd2480-group-20",
+    "id": 6466,
+    "url": "https://gits-15.sys.kth.se/api/v3/orgs/dd2480-group-20",
+    "repos_url": "https://gits-15.sys.kth.se/api/v3/orgs/dd2480-group-20/repos",
+    "events_url": "https://gits-15.sys.kth.se/api/v3/orgs/dd2480-group-20/events",
+    "hooks_url": "https://gits-15.sys.kth.se/api/v3/orgs/dd2480-group-20/hooks",
+    "issues_url": "https://gits-15.sys.kth.se/api/v3/orgs/dd2480-group-20/issues",
+    "members_url": "https://gits-15.sys.kth.se/api/v3/orgs/dd2480-group-20/members{/member}",
+    "public_members_url": "https://gits-15.sys.kth.se/api/v3/orgs/dd2480-group-20/public_members{/member}",
+    "avatar_url": "https://gits-15.sys.kth.se/avatars/u/6466?",
+    "description": ""
+  },
+  "sender": {
+    "login": "mpola",
+    "id": 2342,
+    "avatar_url": "https://gits-15.sys.kth.se/avatars/u/2342?",
+    "gravatar_id": "",
+    "url": "https://gits-15.sys.kth.se/api/v3/users/mpola",
+    "html_url": "https://gits-15.sys.kth.se/mpola",
+    "followers_url": "https://gits-15.sys.kth.se/api/v3/users/mpola/followers",
+    "following_url": "https://gits-15.sys.kth.se/api/v3/users/mpola/following{/other_user}",
+    "gists_url": "https://gits-15.sys.kth.se/api/v3/users/mpola/gists{/gist_id}",
+    "starred_url": "https://gits-15.sys.kth.se/api/v3/users/mpola/starred{/owner}{/repo}",
+    "subscriptions_url": "https://gits-15.sys.kth.se/api/v3/users/mpola/subscriptions",
+    "organizations_url": "https://gits-15.sys.kth.se/api/v3/users/mpola/orgs",
+    "repos_url": "https://gits-15.sys.kth.se/api/v3/users/mpola/repos",
+    "events_url": "https://gits-15.sys.kth.se/api/v3/users/mpola/events{/privacy}",
+    "received_events_url": "https://gits-15.sys.kth.se/api/v3/users/mpola/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+}
